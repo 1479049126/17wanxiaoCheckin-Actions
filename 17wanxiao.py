@@ -15,7 +15,7 @@ def initLogging():
 def get_token(username, password):
     """
     获取用户令牌，模拟登录获取：https://github.com/zhongbr/wanmei_campus
-    :param username: 1576849591
+    :param username: 15969547116
     :param password: LOVEHJ19981226
     :return:
     """
